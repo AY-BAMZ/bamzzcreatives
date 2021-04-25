@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/AY-BAMZ/bamzzcreatives.git/static/css/main.7cbdc59c.chunk.css",
+    "main.js": "/AY-BAMZ/bamzzcreatives.git/static/js/main.16e10adb.chunk.js",
+    "main.js.map": "/AY-BAMZ/bamzzcreatives.git/static/js/main.16e10adb.chunk.js.map",
+    "runtime-main.js": "/AY-BAMZ/bamzzcreatives.git/static/js/runtime-main.1e6074d7.js",
+    "runtime-main.js.map": "/AY-BAMZ/bamzzcreatives.git/static/js/runtime-main.1e6074d7.js.map",
+    "static/css/2.ac176f29.chunk.css": "/AY-BAMZ/bamzzcreatives.git/static/css/2.ac176f29.chunk.css",
+    "static/js/2.0857b340.chunk.js": "/AY-BAMZ/bamzzcreatives.git/static/js/2.0857b340.chunk.js",
+    "static/js/2.0857b340.chunk.js.map": "/AY-BAMZ/bamzzcreatives.git/static/js/2.0857b340.chunk.js.map",
+    "static/js/3.0f168b1b.chunk.js": "/AY-BAMZ/bamzzcreatives.git/static/js/3.0f168b1b.chunk.js",
+    "static/js/3.0f168b1b.chunk.js.map": "/AY-BAMZ/bamzzcreatives.git/static/js/3.0f168b1b.chunk.js.map",
+    "index.html": "/AY-BAMZ/bamzzcreatives.git/index.html",
+    "static/css/2.ac176f29.chunk.css.map": "/AY-BAMZ/bamzzcreatives.git/static/css/2.ac176f29.chunk.css.map",
+    "static/css/main.7cbdc59c.chunk.css.map": "/AY-BAMZ/bamzzcreatives.git/static/css/main.7cbdc59c.chunk.css.map",
+    "static/js/2.0857b340.chunk.js.LICENSE.txt": "/AY-BAMZ/bamzzcreatives.git/static/js/2.0857b340.chunk.js.LICENSE.txt",
+    "static/media/logo.c0bccb83.svg": "/AY-BAMZ/bamzzcreatives.git/static/media/logo.c0bccb83.svg",
+    "static/media/slick-theme.css": "/AY-BAMZ/bamzzcreatives.git/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e6074d7.js",
+    "static/css/2.ac176f29.chunk.css",
+    "static/js/2.0857b340.chunk.js",
+    "static/css/main.7cbdc59c.chunk.css",
+    "static/js/main.16e10adb.chunk.js"
+  ]
+}
