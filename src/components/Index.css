@@ -39,3 +39,74 @@
     margin-right: 50px;
 }
 
+/* footer  */
+
+
+.footer{
+    max-width: 1250px;
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+    margin: auto;
+}
+.footerRow{
+    margin: 0px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 0px;
+    display: flex;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.footerCol h3{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #000;
+}
+.footerCol ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.footerCol ul li{
+    cursor: pointer;
+    font-size: 14px;
+    color: #444;
+    margin-top: 10px;
+    font-weight: 500;
+}
+.footerCol ul li:hover{
+    color: #800080;
+}
+.footerCol p{
+    font-size: 14px;
+    color: #444;
+}
+.footerCol label{
+    font-size: 14px;
+    color: #888;
+}
+.footerCol input{
+    width: 100%;
+    padding: 12px;
+    background: transparent;
+    outline: none;
+    border: none;
+    border-radius: 50px;
+    box-shadow: inset -5px -5px 5px #ffffff80, inset 5px 5px 5px #00000020;
+}
+.footerCol button{
+    margin: 20px;
+    margin-left: 0px;
+}
+.footerCol .socialMedia{
+    display: flex;
+    width: 100%;
+}
+.footerCol .socialMedia .socialMediaIcons{
+    margin-right: 20px;
+    font-size: 30px;
+    color: #555;
+    cursor: pointer;
+}

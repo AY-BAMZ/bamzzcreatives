@@ -1,8 +1,11 @@
 /* welcome section */
 .welcome{
     height: 90vh;
+    max-height: 750px;
     align-items: center;
     justify-content: center;
+    max-width: 1350px;
+    margin: auto;
 }
 .welcome .welcomeRow{
     align-items: center;
